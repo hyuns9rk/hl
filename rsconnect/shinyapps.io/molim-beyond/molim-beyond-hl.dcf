@@ -1,0 +1,13 @@
+name: molim-beyond-hl
+title: molim-beyond-hl
+username:
+account: molim-beyond
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6610542
+bundleId: 6081040
+url: https://molim-beyond.shinyapps.io/molim-beyond-hl/
+when: 1657268036.75596
+lastSyncTime: 1657268036.75597
+asMultiple: FALSE
+asStatic: FALSE
