@@ -5,10 +5,10 @@ account: molim-beyond
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7152786
-bundleId: 6349831
+bundleId: 6398036
 url: https://molimapps.shinyapps.io/half-life/
-when: 1664423808.53881
-lastSyncTime: 1664423808.53882
+when: 1665638240.74494
+lastSyncTime: 1665638240.74495
 quarto_version: 0.9.522
 quarto_engines: knitr
 asMultiple: FALSE
